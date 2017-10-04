@@ -1,2 +1,2 @@
 # CruiseControlJiraPublisher
-Slack.com integration with CruiseControl.NET
+Jira integration with CruiseControl.NET
